@@ -1,0 +1,13 @@
+# configs and packaging this app
+
+[project]
+name = "tmdb-movies-fetcher"
+version = "1.0.0"
+description = "Fetch movies from TMDB API"
+dependencies = [
+  "requests",
+  "python-dotenv"
+]
+
+[project.scripts]
+tmdb = "moviefetch.__main__:main"

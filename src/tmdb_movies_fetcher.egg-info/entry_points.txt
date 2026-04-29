@@ -1,0 +1,2 @@
+[console_scripts]
+tmdb = moviefetch.__main__:main
