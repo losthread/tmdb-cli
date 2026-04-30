@@ -6,7 +6,7 @@ version = "0.0.1"
 authors = [{ name="losthread"}]
 description = "Fetch movies from the TMDB API"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.8"
 classifiers = [
   "Programming Language :: Python :: 3",
   "Operating System :: OS Independent"
