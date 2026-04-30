@@ -8,6 +8,11 @@ __pycache__/
 *.pyo
 *.pyd
 
+# build files
+dist/
+build/
+*.egg-info/
+
 # OS files
 .DS_Store
 
